@@ -1,0 +1,11 @@
+{
+  "prisma.eat_crystal_melon": {
+    "sounds": [
+      { "name": "prisma:random/crystal_eat1", "pitch": 1.0},
+      { "name": "prisma:random/crystal_eat2", "pitch": 1.0},
+      { "name": "prisma:random/crystal_eat1", "pitch": 1.1},
+      { "name": "prisma:random/crystal_eat2", "pitch": 0.9}
+    ],
+    "subtitle": "subtitles.entity.generic.eat"
+  }
+}
